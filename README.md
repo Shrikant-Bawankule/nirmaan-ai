@@ -1,7 +1,3 @@
-Here is a **short, clean, professional README** you can **copy–paste directly** into GitHub:
-
----
-
 # **Nirmaan AI – Communication Scorer**
 
 A Streamlit-based evaluation tool built for the **Nirmaan AI Intern Case Study**.
@@ -53,18 +49,3 @@ requirements.txt
 
 ---
 
-## **Notes**
-
-* Semantic model downloads on first run
-* Grammar checking uses LanguageTool (with fallback if Java is unavailable)
-
----
-
-If you want, I can also generate:
-
-* a `.gitignore`
-* a LICENSE file
-* repo badges
-* Streamlit Cloud deployment instructions
-
-Just tell me!
